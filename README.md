@@ -2,7 +2,8 @@
 This is a repository to store your hardwork practiced in the C Sessions organised by ACM-JUIT.
 <br>
 ## :gear: Follow these steps as presented in the Github Workshop:
-- **Clone this Repository**
+- **Fork this Repository**
+- **Clone your forked Repository on to your machine**
 - **Do the needful changes**
 - **Create a valid Pull Request with an appropriate message**
 
