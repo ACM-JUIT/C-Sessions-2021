@@ -5,6 +5,7 @@ This is a repository to store your hardwork practiced in the C Sessions organise
 - **Fork this Repository**
 - **Clone your forked Repository on to your machine**
 - **Do the needful changes**
+- **Push the changes to your forked repo, and**
 - **Create a valid Pull Request with an appropriate message**
 
 The managers of the repository will then review your Pull Request and merge your code.
