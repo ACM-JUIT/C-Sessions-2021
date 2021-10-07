@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+        
+    int n, rem;
+    scanf("%d",&n);
+    rem = n%2;
+    if(rem==1)
+    {
+        printf("%d is odd.",n);
+    }
+    else 
+    {
+        printf("%d is even.",n);
+    }
+   return 0;
+}
