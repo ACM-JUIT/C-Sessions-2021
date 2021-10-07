@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 int main()
-{	// c program to add two whole numbers - Shivansh Mehrotra
+{	// c program to add two whole numbers - SHIVANSH MEHROTRA
    int a,b,sum=0;
    scanf("%d %d",&a,&b);
    sum=a+b;
