@@ -18,10 +18,10 @@ int main()
 
     printf("\t Simple Calculator");
     printf("\n \n");
-    printf("Enter the value of a:");
+    printf("Enter the integer value of a:");
     scanf("%d",&a);
     printf("\n");
-    printf("Enter the value of b:");
+    printf("Enter the integer value of b:");
     scanf("%d",&b);
     sum=a+b;
     printf("\n Sum of a and b is : %d",sum);
