@@ -1,0 +1,21 @@
+
+
+#include <stdio.h>
+
+int
+main ()
+{
+  int a, i, fac = 1;
+
+  printf ("ENTER A NATURAL NUMBER \n");
+  scanf ("%d", &a);
+  if (a != 0)
+    {
+      for (i = 1; i <= a; i++)
+	fac = fac * i;
+      printf ("FACTORIAL OF THE NUMBER IS : %d", fac);
+    }
+  else
+    printf ("ERROR");
+  return 0;
+}
